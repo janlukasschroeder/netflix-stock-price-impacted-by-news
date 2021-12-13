@@ -5,7 +5,7 @@ cffi==1.12.3
 chardet==3.0.4
 cryptography==2.7
 idna==2.8
-lxml==4.4.1
+lxml==4.6.5
 multitasking==0.0.9
 numpy==1.16.4
 pandas==0.24.2
